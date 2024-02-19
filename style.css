@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar1{
+    background-color: #000;
+    display: flex;
+}
+.navbar1 img{
+    width: 200px;
+    padding-top: 20px;
+    padding-left: 30px;
+    margin-left: 50px;
+    /* margin-left: 40px; */
+
+}
+.navbar2{
+    padding-top: 40px;
+    margin-left: 20%;
+}
+.navbar2 ul li{
+    /* align-items: center; */
+    /* padding-top: 30px; */
+    color: #fff;
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    display: inline;
+}
+.btn1{
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 20px;
+}
+.btn2{
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 15px;
+}
+.mein-salt{
+    background-color: #000;
+}
+.salt p{
+    color: rgba(255, 255, 255, 0.7);;
+}
+.salt{
+    padding-top: 50px;
+    color: #fff;
+    justify-content: center;
+    text-align: center;
+}
+.salt span{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.salt1{
+    height: 55vh;
+    display: flex;
+    justify-content: center;
+}
+.img-salt1{
+    /* display: flex; */
+    /* justify-content: center; */
+    background-color: #fff;
+    border-radius: 5px;
+    width: 240px;
+    margin: 20px;
+    height: 15vh;
+}
+.img-salt1 img{
+    width: 240px;
+}
+.img-salt2 img{
+    width: 240px;
+}
+.img-salt3 img{
+    width: 240px;
+}
+.img-salt2{
+     /* display: flex; */
+    /* justify-content: center; */
+    background-color: #fff;
+    width: 240px;
+    margin: 20px;
+    height: 15vh;
+    border-radius: 5px;
+}
+.img-salt1 .btn1{
+    margin-top: 30px;
+    width: 70%;
+}
+.img-salt2 .btn1{
+    margin-top: 30px;
+    width: 70%;
+}
+.img-salt3 .btn1{
+    width: 70%;
+    margin-top: 30px;
+}
+.img-salt3{
+     /* display: flex; */
+    /* justify-content: center; */
+    background-color: #fff;
+    height: 15vh;
+    width: 240px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.rsturent{
+    background-color: #111;
+}
+.resturent1{
+    padding-top: 50px;
+    color: #fff;
+    justify-content: center;
+    text-align: center;
+}
+.resturent1 h2{
+    text-align: center;
+    font-size: 40px;
+}
+.resturent1 span{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.resturent2{
+    justify-content: space-around;
+    display: flex;
+}
+.resturent3{
+    color: #fff;
+    
+}
